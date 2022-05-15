@@ -47,8 +47,7 @@ export default class Command extends BaseCommand {
 │⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
 │⋊ ℕ𝕒𝕞𝕖: Zero Two
 │⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
-│⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod*
-│⋊ 𝕆𝕗𝕗𝕚𝕥𝕚𝕒𝕝 𝕊𝕦𝕡𝕡𝕠𝕣𝕥 𝔾𝕣𝕠𝕦𝕡: http://gg.gg/10xtwj
+│⋊ 𝕆𝕨𝕟𝕖𝕣: *ᎷＩN么ᎢＯ⁴⚡*
 ╰──────────────────𐏋                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
@@ -68,7 +67,7 @@ export default class Command extends BaseCommand {
 ┌────────────┈❅
 │   『 Zero Two 』
 │   Based on: Chitoge and Void
-│   Reverse Engineer: Fantox
+│   Created by: ᎷＩN么ᎢＯ⁴⚡
 └────────────┈⁂
 
 🎗 *Note: Use ${this.client.config.prefix}help <command_name> to view the command info and don't spam or call Zero Two.*` }
